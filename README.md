@@ -25,4 +25,4 @@ This is a space where I share my latest experiments, design systems, and code-ba
 
 ---
 
-[Medium Blog](https://medium.com/@shahriyartashkir) | [LinkedIn](www.linkedin.com/in/tashkirrr) | [Email Me](mailto:shahriyartashkir@gmail.com) | [Facebook](https://www.facebook.com/shahriyar.tashkir) | [Instagram](https://www.instagram.com/tashkirrr) | 
+[Medium Blog](https://medium.com/@shahriyartashkir) | [LinkedIn](https://www.linkedin.com/in/tashkirrr) | [Email Me](mailto:shahriyartashkir@gmail.com) | [Facebook](https://www.facebook.com/shahriyar.tashkir) | [Instagram](https://www.instagram.com/tashkirrr) | 

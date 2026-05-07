@@ -1,21 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FF&height=150&section=header&text=SHAHRIYAR%20TASHKIR&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FCEE09&height=150&section=header&text=SHAHRIYAR%20TASHKIR&fontSize=60&fontColor=000000&fontAlignY=40&desc=SYSTEMS%20ENGINEER%20%7C%20VISUAL%20ARCHITECT&descSize=20&descAlignY=65" width="100%">
 
 <br>
 
-### 💠 SYSTEMS_ARCHITECT // VISUAL_ENGINE_OPTIMIZER
-**Go • Distributed Systems • Cryptography • UI/UX**
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=FCEE09&center=true&vCenter=true&width=1000&lines=BOOTING_SYSTEM_v2077;NEURAL_LINK_STABLE;SCANNING_CITY_GRID;WELCOME_TO_NIGHT_CITY)
 
 <br>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2000&pause=1000&color=00F2FF&center=true&vCenter=true&width=1000&lines=CORE_SYSTEMS_INITIATED;SCANNING_NEURAL_NODES;ACCESS_GRANTED_OPERATOR;WELCOME_TO_THE_FUTURE)
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00F2FF)](https://github.com/tashkirrr)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F2FF)](https://www.linkedin.com/in/tashkirrr/)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00F2FF)](https://tashkirrr.github.io/Md.Shahriyar.Tashkir/)
+[![GitHub](https://img.shields.io/badge/LINK_01-GITHUB-000000?style=for-the-badge&logo=github&logoColor=FCEE09)](https://github.com/tashkirrr)
+[![LinkedIn](https://img.shields.io/badge/LINK_02-LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FCEE09)](https://www.linkedin.com/in/tashkirrr/)
+[![Portfolio](https://img.shields.io/badge/LINK_03-PORTFOLIO-000000?style=for-the-badge&logo=google-chrome&logoColor=FCEE09)](https://tashkirrr.github.io/Md.Shahriyar.Tashkir/)
 
 <br>
 
@@ -23,82 +18,80 @@
 
 ---
 
-### 📡 [SYSTEM_STATUS]
+### ⚠️ [CRITICAL_MANIFEST]
 
-```json
-{
-  "identity": "Mohammad Shahriyar Tashkir",
-  "status": "BUILDING_DISTRIBUTED_FUTURE",
-  "location": "Dhaka, BD",
-  "current_project": "RDM-Server (High-Perf Go DB)",
-  "neural_load": "OPTIMIZED"
-}
+```yaml
+IDENTITY: "Mohammad Shahriyar Tashkir"
+STATUS: "LICENSED_SYSTEMS_ENGINEER"
+DECK: "Go / Distributed Architectures"
+LOCATION: "Night City // Dhaka, BD"
+OBJECTIVE: "Optimizing the neural backbone of the grid."
 ```
 
 ---
 
-### 🛠️ [NEURAL_STACK]
+### 🛠️ [CYBER_WARE]
 
 <div align="center">
 
-| 🚀 **BACKEND** | 🎨 **DESIGN** | ⚙️ **INFRA** |
+| KERNEL | INTERFACE | NETWORK |
 | :--- | :--- | :--- |
-| ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) | ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![Go](https://img.shields.io/badge/Go-FCEE09?style=flat-square&logo=go&logoColor=000000) | ![Figma](https://img.shields.io/badge/Figma-FCEE09?style=flat-square&logo=figma&logoColor=000000) | ![Linux](https://img.shields.io/badge/Linux-FCEE09?style=flat-square&logo=linux&logoColor=000000) |
+| ![C](https://img.shields.io/badge/C-FCEE09?style=flat-square&logo=c&logoColor=000000) | ![Illustrator](https://img.shields.io/badge/Illustrator-FCEE09?style=flat-square&logo=adobe-illustrator&logoColor=000000) | ![Docker](https://img.shields.io/badge/Docker-FCEE09?style=flat-square&logo=docker&logoColor=000000) |
+| ![Rust](https://img.shields.io/badge/Rust-FCEE09?style=flat-square&logo=rust&logoColor=000000) | ![Photoshop](https://img.shields.io/badge/Photoshop-FCEE09?style=flat-square&logo=adobe-photoshop&logoColor=000000) | ![Git](https://img.shields.io/badge/Git-FCEE09?style=flat-square&logo=git&logoColor=000000) |
 
 </div>
 
 ---
 
-### 🚀 [ACTIVE_MODULES]
+### 🚀 [ACTIVE_BOUNTIES]
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>💾 RDM-Server</h4>
-      <p>A distributed database engine built in Go. Features Master-Slave replication and AOF persistence.</p>
-      <a href="https://github.com/tashkirrr/RDM-Server"><b>[ACCESS_SOURCE]</b></a>
+      <h4>📦 RDM-Server</h4>
+      <p>High-performance Redis-compatible engine. Built for the deep web using Go's distributed primitives.</p>
+      <a href="https://github.com/tashkirrr/RDM-Server"><b>[INSPECT_GEAR]</b></a>
     </td>
     <td width="50%" valign="top">
       <h4>🤖 Tic-Tac-Toe AI</h4>
-      <p>Unbeatable AI using Minimax with Alpha-Beta pruning. Optimized for decision-making efficiency.</p>
-      <a href="https://github.com/tashkirrr/tic-tac-toe"><b>[ACCESS_SOURCE]</b></a>
+      <p>Unbeatable neural agent. Minimax implementation with optimized decision pathways.</p>
+      <a href="https://github.com/tashkirrr/tic-tac-toe"><b>[INSPECT_GEAR]</b></a>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 [NETWORK_STATS]
+### 📊 [GRID_TELEMETRY]
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tashkirrr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=00F2FF&icon_color=00F2FF&text_color=ffffff&bg_color=0D1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tashkirrr&layout=compact&langs_count=8&theme=tokyonight&title_color=00F2FF&text_color=ffffff&bg_color=0D1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tashkirrr&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=FCEE09&icon_color=FCEE09&text_color=ffffff&bg_color=000000" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tashkirrr&layout=compact&langs_count=8&theme=radical&title_color=FCEE09&text_color=ffffff&bg_color=000000" />
 
 <br><br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tashkirrr&theme=tokyonight&background=0D1117&border=00F2FF&stroke=00F2FF&fire=00F2FF&ring=00F2FF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tashkirrr&theme=radical&background=000000&border=FCEE09&stroke=FCEE09&fire=FCEE09&ring=FCEE09)
 
 </div>
 
 ---
 
-### 📉 [ACTIVITY_FLOW]
+### 📈 [UPLINK_ACTIVITY]
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tashkirrr&theme=tokyonight&bg_color=0D1117&color=00F2FF&line=00F2FF&point=ffffff&area=true&hide_border=true)](https://github.com/tashkirrr)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tashkirrr&theme=radical&bg_color=000000&color=FCEE09&line=FCEE09&point=ffffff&area=true&hide_border=true)](https://github.com/tashkirrr)
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=tashkirrr&color=00F2FF&style=for-the-badge&label=NEURAL_VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=tashkirrr&color=FCEE09&style=for-the-badge&label=SCAN_COUNT" />
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FF&height=50&section=footer&text=CONTINUE_TO_BUILD&fontSize=20&fontColor=ffffff" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FCEE09&height=50&section=footer&text=WAKE%20UP%20SAMURAI&fontSize=20&fontColor=000000" width="100%">
 </div>

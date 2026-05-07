@@ -1,26 +1,34 @@
-name: README Heartbeat
+name: README Telemetry Sync
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight
-  workflow_dispatch: # Allows manual trigger
+    - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch:
 
 jobs:
-  update-readme:
+  telemetry-update:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
         uses: actions/checkout@v3
 
-      - name: Update Heartbeat
+      - name: Generate Telemetry
         run: |
+          UPTIME=$(uptime -p)
+          TEMP=$(( ( RANDOM % 10 ) + 35 ))
+          LOAD=$(( ( RANDOM % 20 ) + 5 ))
           DATE=$(date +'%Y-%m-%d %H:%M:%S')
-          sed -i "s/LAST_SYNC:.*/LAST_SYNC: $DATE/" README.md
+          
+          # Update README with new stats
+          sed -i "s/UPTIME: .*/UPTIME: \"$UPTIME\"/" README.md
+          sed -i "s/CORE_TEMP: .*/CORE_TEMP: \"$TEMP°C\"/" README.md
+          sed -i "s/NEURAL_LOAD: .*/NEURAL_LOAD: \"$LOAD%\"/" README.md
+          sed -i "s/LAST_TICK: .*/LAST_TICK: \"$DATE\"/" README.md
 
-      - name: Commit and Push
+      - name: Deploy Update
         run: |
           git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.name "Cyber-Action"
           git add README.md
-          git commit -m "chore: automated system heartbeat update" || exit 0
+          git commit -m "sys(telemetry): automated neural sync tick" || exit 0
           git push

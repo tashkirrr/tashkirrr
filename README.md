@@ -117,5 +117,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=14B8A6&height=50&section=footer&text=DESIGN%20THE%20FUTURE&fontSize=20&fontColor=ffffff" width="100%">
   <br>
-  <i>"Evolving at the intersection of bits and aesthetics."</i>
+  <b> <i>"I don't see a boundary between a pixel and a line of code. To me, they're both tools I use to build things that matter."</i> </b>
 </div>

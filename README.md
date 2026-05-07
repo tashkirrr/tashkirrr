@@ -1,12 +1,7 @@
 <div align="center">
 
-<!-- HERO BANNER -->
-<img src="./cyberpunk_banner_tashkir.png" width="100%" alt="Cyberpunk Banner">
-
-<br>
-
 <!-- TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=1000&lines=SYSTEM+INITIALIZED...+;WELCOME+TO+THE+NEURAL+NETWORK;MOHAMMAD+SHAHRIYAR+TASHKIR;ARCHITECTING+THE+FUTURE" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=1000&lines=SYSTEM+INITIALIZED...+;WELCOME+TO+THE+NEURAL+NETWORK;MOHAMMAD+SHAHRIYAR+TASHKIR;ARCHITECTING+THE+FUTURE" alt="Typing SVG">
 
 <br>
 
@@ -16,9 +11,9 @@
 <a href="https://tashkirrr.github.io/Md.Shahriyar.Tashkir/"><img src="https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=google-chrome&logoColor=00F2FF" alt="Portfolio"></a>
 <a href="mailto:shahriyar.tashkir@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=00F2FF" alt="Gmail"></a>
 
-<br>
+<br><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
@@ -103,7 +98,7 @@ Modern, high-performance portfolio showcasing the intersection of code and art.
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tashkirrr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117&title_color=00F2FF&icon_color=FF00FF" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tashkirrr&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=00F2FF" />
 
-<br>
+<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=tashkirrr&theme=tokyonight&background=0D1117&border=00F2FF&stroke=FF00FF&ring=00F2FF&fire=FF00FF&currStreakLabel=00F2FF" alt="GitHub Streak" />
 

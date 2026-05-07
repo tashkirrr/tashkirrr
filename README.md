@@ -8,9 +8,9 @@
 
 ```ascii
 ╔═══════════════════════════════════════════════════════════════════════╗
-║  CSE @ Daffodil International University                              ║
-║  Director of IT & Graphics @ Youth For a Green Earth                  ║
-║  Graphics Design Champion | ICT Olympiad Divisional Champion          ║
+║  CSE @ Daffodil International University                              ║
+║  Director of IT & Graphics @ Youth For a Green Earth                  ║
+║  Graphics Design Champion | ICT Olympiad Divisional Champion          ║
 ╚═══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -20,36 +20,32 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"> **CURRENT STATUS**
 
 ```python
 class Tashkir:
-    def __init__(self):
-        self.name = "Mohammad Shahriyar Tashkir"
-        self.role = "Systems Engineer & Visual Designer"
-        self.language_spoken = ["bn_BD", "en_US"]
-        
-    def currently_working_on(self):
-        return [
-            "RDM-Server — Redis-like in-memory database",
-            "Green Genesis 2026 visual campaign (BRAC University)",
-            "Deep dive into distributed systems & cryptography"
-        ]
-    
-    def tech_stack(self):
-        return {
-            "systems": ["Go", "C", "Python", "Distributed Systems"],
-            "design": ["Illustrator", "Photoshop", "Affinity", "Figma"],
-            "frontend": ["TypeScript", "HTML/CSS", "React"],
-            "interests": ["Database Internals", "ML", "Cryptography"]
-        }
+    def __init__(self):
+        self.name = "Mohammad Shahriyar Tashkir"
+        self.role = "Systems Engineer & Visual Designer"
+        self.language_spoken = ["bn_BD", "en_US"]
+        
+    def currently_working_on(self):
+        return [
+            "RDM-Server — Redis-like in-memory database",
+            "Green Genesis 2026 visual campaign (BRAC University)",
+            "Deep dive into distributed systems & cryptography"
+        ]
+    
+    def tech_stack(self):
+        return {
+            "systems": ["Go", "C", "Python", "Distributed Systems"],
+            "design": ["Illustrator", "Photoshop", "Affinity", "Figma"],
+            "frontend": ["TypeScript", "HTML/CSS", "React"],
+            "interests": ["Database Internals", "ML", "Cryptography"]
+        }
 ```
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
 
 ---
 
@@ -65,11 +61,11 @@ A **Redis-like distributed database** built from scratch in Go. Zero dependencie
 ```go
 // What makes it special?
 type RDMServer struct {
-    MasterSlaveReplication  bool  // Automatic discovery & sync
-    AOFPersistence         bool  // Crash recovery
-    CustomRESPParser       bool  // Memory attack protection
-    RedisStreamsSupport    bool  // Real-time data (XADD/XREAD)
-    ZeroDependencies       bool  // Built with stdlib only
+    MasterSlaveReplication  bool  // Automatic discovery & sync
+    AOFPersistence         bool  // Crash recovery
+    CustomRESPParser       bool  // Memory attack protection
+    RedisStreamsSupport    bool  // Real-time data (XADD/XREAD)
+    ZeroDependencies       bool  // Built with stdlib only
 }
 ```
 
@@ -110,17 +106,15 @@ Minimalist portfolio showcasing design work and technical projects.
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
-
 ---
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **TECH ARSENAL**
 
 ```text
-Systems & Backend  ████████████████████░░  90%
-Design & Frontend  ████████████████████░░  95%
-Database Design    ███████████████████░░░  85%
-Distributed Sys    ██████████████░░░░░░░  70%
+Systems & Backend  ████████████████████░░  90%
+Design & Frontend  ████████████████████░░  95%
+Database Design    ███████████████████░░░  85%
+Distributed Sys    ██████████████░░░░░░░  70%
 ```
 
 <div align="center">
@@ -146,30 +140,28 @@ Distributed Sys    ██████████████░░░░░░�
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
 ---
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="30px"> **ACHIEVEMENTS UNLOCKED**
 
 ```yaml
 🏆 Graphics Design Champion:
-  event: "Intra College TechCon 2024"
-  organization: "Adamjee Cantonment College IT Club"
-  
+  event: "Intra College TechCon 2024"
+  organization: "Adamjee Cantonment College IT Club"
+  
 🥇 ICT Olympiad Divisional Champion:
-  year: 2022
-  category: "Class 9-10"
-  country: "Bangladesh"
+  year: 2022
+  category: "Class 9-10"
+  country: "Bangladesh"
 
 🎓 Perfect GPA:
-  score: "5.00/5.00"
-  level: "SSC (Science)"
-  institution: "Adamjee Cantonment Public School"
+  score: "5.00/5.00"
+  level: "SSC (Science)"
+  institution: "Adamjee Cantonment Public School"
 
 🌍 National Ambassador:
-  role: "ICT Olympiad Bangladesh Season 1"
-  representation: "School Level"
+  role: "ICT Olympiad Bangladesh Season 1"
+  representation: "School Level"
 ```
 
 ---
@@ -186,26 +178,22 @@ Distributed Sys    ██████████████░░░░░░�
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
-
 ---
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35px"> **GITHUB ANALYTICS**
 
 <div align="center">
-  
+  
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tashkirrr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tashkirrr&layout=compact&langs_count=8&theme=algolia"/>
 
 </div>
 
 <div align="center">
-  
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tashkirrr&theme=algolia&background=0d1117&hide_border=true)](https://git.io/streak-stats)
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
 
 ---
 
@@ -227,10 +215,10 @@ Distributed Sys    ██████████████░░░░░░�
 
 ```ascii
 ╔═══════════════════════════════════════════════════════════════════════╗
-║                                                                       ║
-║  "Code is poetry. Design is storytelling. I do both."                ║
-║                                           — Shahriyar Tashkir         ║
-║                                                                       ║
+║                                                                       ║
+║  "Code is poetry. Design is storytelling. I do both."                ║
+║                                           — Shahriyar Tashkir         ║
+║                                                                       ║
 ╚═══════════════════════════════════════════════════════════════════════╝
 ```
 

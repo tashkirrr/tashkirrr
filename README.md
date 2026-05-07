@@ -1,138 +1,101 @@
 <div align="center">
 
-<!-- TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=1000&lines=SYSTEM+INITIALIZED...+;WELCOME+TO+THE+NEURAL+NETWORK;MOHAMMAD+SHAHRIYAR+TASHKIR;ARCHITECTING+THE+FUTURE" alt="Typing SVG">
+# ⚡ MOHAMMAD SHAHRIYAR TASHKIR
+**Systems Engineer & Visual Designer**
 
 <br>
 
-<!-- SOCIAL LINKS NEON -->
-<a href="https://github.com/tashkirrr"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00F2FF" alt="GitHub"></a>
-<a href="https://www.linkedin.com/in/tashkirrr/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=00F2FF" alt="LinkedIn"></a>
-<a href="https://tashkirrr.github.io/Md.Shahriyar.Tashkir/"><img src="https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=google-chrome&logoColor=00F2FF" alt="Portfolio"></a>
-<a href="mailto:shahriyar.tashkir@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=00F2FF" alt="Gmail"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tashkirrr/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2ecc71?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tashkirrr.github.io/Md.Shahriyar.Tashkir/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tashkirrr)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahriyar.tashkir@gmail.com)
 
-<br><br>
+<br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+---
 
 </div>
 
----
+### 🔭 AT A GLANCE
 
-### 🌌 [SYSTEM_MANIFEST]
-
-```yaml
-  Identity: Mohammad Shahriyar Tashkir
-  Designation: Systems Engineer // Visual Storyteller
-  Current_Focus: ["Distributed Systems", "Cryptography", "High-Performance Databases"]
-  Affiliations: ["Daffodil International University", "Youth For a Green Earth"]
-  Location: "Dhaka, Bangladesh"
-```
-
----
-
-### ⚡ [SKILLS_LOADED]
-
-```text
-Backend Architecting  [####################] 100%
-Visual Identity Design [##################--] 90%
-Distributed Systems    [###############-----] 75%
-Neural Optimizations   [############--------] 60%
-```
-
----
-
-### 🛠️ [TECH_ARSENAL]
-
-<div align="center">
-
-| CATEGORY | STACK |
+| **CORE DOMAIN** | **CURRENT STATUS** |
 | :--- | :--- |
-| **SYSTEMS** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) |
-| **WEB** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) |
-| **DESIGN** | ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
-| **INFRA** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| 🏗️ **Architecting** high-performance systems and distributed databases. | 🚀 Building **RDM-Server**, a Redis-like engine from scratch. |
+| 🎨 **Crafting** visual identities and premium user experiences. | 💎 Design Lead for **Youth For a Green Earth**. |
+| 🎓 **Studying** CSE at **Daffodil International University**. | 🧠 Exploring **Distributed Systems** and **Cryptography**. |
+
+---
+
+### 🛠️ TECH STACK
+
+<div align="center">
+
+**SYSTEMS & BACKEND**
+<br>
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+**WEB & DESIGN**
+<br>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 
 </div>
 
 ---
 
-### 🚀 [CORE_PROJECTS]
+### 📂 SELECTED REPOSITORIES
 
-<details open>
-<summary><b>💾 RDM-Server — High-Performance In-Memory Database</b></summary>
-<br>
-A distributed database engine built in Go. Features Master-Slave replication, AOF persistence, and custom RESP parsing.
-<br>
-<code>GO</code> <code>TCP</code> <code>DISTRIBUTED_SYSTEMS</code>
-<br>
-<a href="https://github.com/tashkirrr/RDM-Server"><b>[ACCESS_REPOSITORY]</b></a>
-</details>
-
-<details>
-<summary><b>🤖 Tic-Tac-Toe AI — Minimax Optimization</b></summary>
-<br>
-Unbeatable AI implementation using game theory and alpha-beta pruning.
-<br>
-<code>PYTHON</code> <code>AI</code> <code>ALGORITHMS</code>
-<br>
-<a href="https://github.com/tashkirrr/tic-tac-toe"><b>[ACCESS_REPOSITORY]</b></a>
-</details>
-
-<details>
-<summary><b>🎨 Visual Identity — Portfolio v2</b></summary>
-<br>
-Modern, high-performance portfolio showcasing the intersection of code and art.
-<br>
-<code>TYPESCRIPT</code> <code>ANIMATIONS</code> <code>UI/UX</code>
-<br>
-<a href="https://tashkirrr.github.io/Md.Shahriyar.Tashkir/"><b>[VIEW_LIVE_DEMO]</b></a>
-</details>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚀 RDM-Server</h4>
+      <p>A distributed database engine built in Go. Features Master-Slave replication, AOF persistence, and custom RESP parsing.</p>
+      <a href="https://github.com/tashkirrr/RDM-Server"><b>View Project →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 Tic-Tac-Toe AI</h4>
+      <p>Unbeatable AI implementation using game theory and alpha-beta pruning. Built with modularity and performance in mind.</p>
+      <a href="https://github.com/tashkirrr/tic-tac-toe"><b>View Project →</b></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 [NEURAL_STATS]
+### 📊 ANALYTICS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tashkirrr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117&title_color=00F2FF&icon_color=FF00FF" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tashkirrr&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=00F2FF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tashkirrr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tashkirrr&layout=compact&langs_count=8&theme=algolia" />
 
-<br><br>
+<br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=tashkirrr&theme=tokyonight&background=0D1117&border=00F2FF&stroke=FF00FF&ring=00F2FF&fire=FF00FF&currStreakLabel=00F2FF" alt="GitHub Streak" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tashkirrr&theme=algolia&hide_border=true)
 
 </div>
 
 ---
 
-### 📈 [ACTIVITY_LOG]
+### 📉 ACTIVITY
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tashkirrr&theme=tokyonight&bg_color=0D1117&color=00F2FF&line=FF00FF&point=39FF14&area=true&hide_border=true)](https://github.com/tashkirrr)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tashkirrr&theme=react-dark&hide_border=true&area=true)](https://github.com/tashkirrr)
 
 <br>
 
-![Snake animation](https://raw.githubusercontent.com/tashkirrr/tashkirrr/output/github-contribution-grid-snake-dark.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=tashkirrr&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
----
+<br>
 
 <div align="center">
-
-### 📡 [CONNECTION_ESTABLISHED]
-
-| [LINKEDIN](https://www.linkedin.com/in/tashkirrr/) | [MEDIUM](https://medium.com/@tashkir2006) | [PORTFOLIO](https://tashkirrr.github.io/Md.Shahriyar.Tashkir/) | [MAIL](mailto:shahriyar.tashkir@gmail.com) |
-| :---: | :---: | :---: | :---: |
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=tashkirrr&color=00F2FF&style=for-the-badge&label=PROFILE_VIEWS" />
-
-<br>
-
-> "Code is poetry. Design is storytelling. I do both." — **Shahriyar Tashkir**
-
+  <i>"Code is poetry. Design is storytelling. I do both."</i>
 </div>

@@ -1,0 +1,26 @@
+name: README Heartbeat
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Update Heartbeat
+        run: |
+          DATE=$(date +'%Y-%m-%d %H:%M:%S')
+          sed -i "s/LAST_SYNC:.*/LAST_SYNC: $DATE/" README.md
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "chore: automated system heartbeat update" || exit 0
+          git push

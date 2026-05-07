@@ -20,6 +20,8 @@
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"> **CURRENT STATUS**
@@ -46,6 +48,8 @@ class Tashkir:
             "interests": ["Database Internals", "ML", "Cryptography"]
         }
 ```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
 
 ---
 
@@ -106,6 +110,8 @@ Minimalist portfolio showcasing design work and technical projects.
 
 </details>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+
 ---
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **TECH ARSENAL**
@@ -139,6 +145,8 @@ Distributed Sys    ██████████████░░░░░░�
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ---
 
@@ -178,6 +186,8 @@ Distributed Sys    ██████████████░░░░░░�
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+
 ---
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35px"> **GITHUB ANALYTICS**
@@ -194,6 +204,8 @@ Distributed Sys    ██████████████░░░░░░�
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tashkirrr&theme=algolia&background=0d1117&hide_border=true)](https://git.io/streak-stats)
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
 
 ---
 

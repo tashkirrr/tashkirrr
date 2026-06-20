@@ -28,14 +28,13 @@
 NAME          :  Mohammad Shahriyar Tashkir
 ALIAS         :  @tashkirrr
 LOCATION      :  Dhaka, Bangladesh 🇧🇩
-BACKGROUND    :  Science Graduate · Graphic Designer (4 years)
-                 Now transitioning into Software Engineering & Data Science
+BACKGROUND    :  Science Graduate · Graphic Designer
 EDUCATION     :  BSc — Computer Science & Engineering
 ACADEMIC BASE :  Physics · Chemistry · Mathematics
 EXPERTISE     :  Full-Stack Web Development
                  Data Science & Privacy-Preserving ML
                  UI/UX Engineering · Visual Design
-RESEARCH      :  Homomorphic Encryption (TenSEAL)
+RESEARCH/ INDIPENDENT RESEARCH      :  Homomorphic Encryption (TenSEAL)
                  Federated Learning (TensorFlow Federated)
                  Climate-Focused Data Analytics
 LEADERSHIP    :  General Secretary — Student IT Club
